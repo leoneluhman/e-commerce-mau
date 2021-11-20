@@ -1,0 +1,13 @@
+
+
+.menuItem:hover {
+    background-color: transparent !important;
+}
+
+.menu {
+    background-color: cornflowerblue;
+}
+
+.header {
+    background-color: white !important;
+}

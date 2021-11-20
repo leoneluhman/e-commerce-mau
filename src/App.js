@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import LayoutComp from './layout/LayoutComp';
 
-export const App = () => {
-    return (
-        <div>
-            <h1>Holi</h1>
-        </div>
-    )
-}
+
+const App = () => {
+  return (
+    <div>
+      <LayoutComp />
+    </div>
+  );
+};
+
+export default App;
